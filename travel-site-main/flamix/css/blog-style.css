@@ -8,7 +8,7 @@
     margin: 70px auto;
     color: #ececec;
 }
-.subhead h1{
+.subhead h1{         
     text-transform: uppercase;
     color: #ececec;
     font-weight: bold;
@@ -39,7 +39,7 @@ font-size: 13px;
     border: 1px solid #ececec;
 }
 .blog-image{
-    max-height: 400px;
+    max-height: 300px;
     width: 100%;
     background-color: #333333;
 }
@@ -88,7 +88,7 @@ font-size: 13px;
         padding-left: 0;
     }
     }
-    }
+    
 .post-info p{
     color: #888888;
     font-size: 13px;

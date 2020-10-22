@@ -6,10 +6,11 @@
 }
 .inside-container {
     max-width: 1200px;
-    margin: 0 auto;
+    margin: 0 auto;     
     padding: 0 15px;
     width: 100%;
 }
+
 .row-spc{
     margin: 0 auto!important;
     font-family: 'Roboto Slab', serif;
